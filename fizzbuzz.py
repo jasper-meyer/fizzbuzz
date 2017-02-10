@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: Jasper
+Credit: Brendan
 
 Assignment:
 
@@ -44,3 +44,4 @@ Fizz
 Fizz
 Buzz
 """
+
